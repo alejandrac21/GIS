@@ -1,0 +1,11 @@
+public class MiPrimerPrograma{
+	public static void main (String args[] ){
+		int valor1=0;
+		String mensaje="Hola, mi nombre es PEPITO"
+		if (valor1>0){
+			System.out.println("El valor es mayor a 0");
+		}else{
+			System.out.println("El valor es menor igual a 0");
+		}
+	}
+}	
